@@ -47,7 +47,7 @@ public class SpiderService {
              *  获取dom并解析
              */
 
-            //jsoup解释dom
+            //使用jsoup工具解释dom
             Document document = Jsoup.parse(html);
             Elements elements = document.
                     select("ul[class=gl-warp clearfix]").select("li[class=gl-item]");

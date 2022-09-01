@@ -15,7 +15,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <jsoup.version>1.10.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <guava.version>22.0</guava.version>
         <lang3.version>3.8.1</lang3.version>
         <mysql.version>8.0.17</mysql.version>
